@@ -1,0 +1,1471 @@
+fileFormatVersion: 2
+guid: 98c7e4ad407044f409369975a75bd17a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7432171349956055629
+    second: 1
+  - first:
+      213: -299258576520664833
+    second: 2
+  - first:
+      213: 5520309904872020459
+    second: 3
+  - first:
+      213: -6118673544817569358
+    second: 4
+  - first:
+      213: 8705327593984685500
+    second: 5
+  - first:
+      213: -3772428436315395269
+    second: 6
+  - first:
+      213: 6938361447735868617
+    second: 7
+  - first:
+      213: -2213049075592636214
+    second: 8
+  - first:
+      213: -8076748029392601827
+    second: lf2_8
+  - first:
+      213: -3158315393934501188
+    second: lf2_9
+  - first:
+      213: -3965608829953858892
+    second: lf2_10
+  - first:
+      213: -8531763458386927195
+    second: lf2_11
+  - first:
+      213: 2370815617145952715
+    second: lf2_12
+  - first:
+      213: -1533948806400531576
+    second: lf2_13
+  - first:
+      213: 6375474069641455174
+    second: lf2_14
+  - first:
+      213: 3086495346284718652
+    second: lf2_15
+  - first:
+      213: -2112468671177981231
+    second: lf2_16
+  - first:
+      213: -6708981975136075120
+    second: r1
+  - first:
+      213: -3885359364711716419
+    second: r2
+  - first:
+      213: 4973971729011398532
+    second: r3
+  - first:
+      213: -2229771809485694267
+    second: lf2_20
+  - first:
+      213: 6657859460601138653
+    second: lf2_21
+  - first:
+      213: -7761733510692061071
+    second: lf2_22
+  - first:
+      213: 3374665751076282859
+    second: lf2_23
+  - first:
+      213: -762578073111410072
+    second: lf2_24
+  - first:
+      213: 5853509685749615405
+    second: lf2_25
+  - first:
+      213: -8060271726389960404
+    second: lf2_26
+  - first:
+      213: 248067667394263292
+    second: lf2_27
+  - first:
+      213: 3866825224903116228
+    second: lf2_28
+  - first:
+      213: 8802289043692882217
+    second: lf2_29
+  - first:
+      213: 5564267734512154313
+    second: lf2_30
+  - first:
+      213: -6103755753743667915
+    second: lf2_31
+  - first:
+      213: 7556300888824138014
+    second: lf2_32
+  - first:
+      213: -3931978945644036129
+    second: lf2_33
+  - first:
+      213: -393995351436451052
+    second: lf2_34
+  - first:
+      213: -2678358777544442713
+    second: lf2_35
+  - first:
+      213: -7199731532979884545
+    second: lf2_36
+  - first:
+      213: 8891099206500484456
+    second: lf2_37
+  - first:
+      213: 1908861608643505154
+    second: lf2_38
+  - first:
+      213: -8576132896414123487
+    second: lf2_39
+  - first:
+      213: -8774414560554388746
+    second: lf2_40
+  - first:
+      213: 6741566955008310151
+    second: lf2_41
+  - first:
+      213: 2841315142751485691
+    second: lf2_42
+  - first:
+      213: 436902664613504830
+    second: lf2_43
+  - first:
+      213: -2813788591834622668
+    second: lf2_44
+  - first:
+      213: -5820265667371714008
+    second: lf2_45
+  - first:
+      213: -8897268581112678519
+    second: lf2_46
+  - first:
+      213: -1020071357780339321
+    second: lf2_47
+  - first:
+      213: 2018320688442561369
+    second: lf2_48
+  - first:
+      213: 8813339288108312365
+    second: lf2_49
+  - first:
+      213: -3801205127108637340
+    second: lf2_50
+  - first:
+      213: -4288783682038850267
+    second: lf2_51
+  - first:
+      213: 6810921118415772803
+    second: lf2_52
+  - first:
+      213: -252066217802707562
+    second: lf2_53
+  - first:
+      213: -6177867286723131800
+    second: lf2_54
+  - first:
+      213: -4159595631417783155
+    second: lf2_55
+  - first:
+      213: 5258390620985615103
+    second: lf2_56
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b92472f62bff4469ad6e65a345cff4
+      internalID: -7432171349956055629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 481
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869e48fc028959347a815ddbf04d169f
+      internalID: -299258576520664833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761019e8edba5f24fa5f9b29a421a88b
+      internalID: 5520309904872020459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 479
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10b85e6a816ec24e9cdb167e881bb68
+      internalID: -6118673544817569358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 479
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc6b8b40ec7fd040aa29273d3052c37
+      internalID: 8705327593984685500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 481
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0bc6a33a590b745bbf5727f6c8da7f
+      internalID: -3772428436315395269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 481
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e31b9588791f54ea2a22f3017a96bc
+      internalID: 6938361447735868617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 479
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52af1f211099334f90d020ab738415c
+      internalID: -2213049075592636214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 482
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939b498f6fe666d4b90acd84555964b7
+      internalID: -8076748029392601827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_9
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 541
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6579a397350a849a7fc000027091f8
+      internalID: -3158315393934501188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_10
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 479
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e028afaaa70d489d8b2c0301b8793
+      internalID: -3965608829953858892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 399
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc81b8214999c8499b3b9c0c1f25c11
+      internalID: -8531763458386927195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 399
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a099b56abde9419dad73b965ce1be
+      internalID: 2370815617145952715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 401
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb932c8f140797458ea70a1a7556e3a
+      internalID: -1533948806400531576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 401
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693a26e950648274ab5bc0e89d3f7fe9
+      internalID: 6375474069641455174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 400
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c263de76492a44a683c5940ad4367
+      internalID: 3086495346284718652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 401
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8dfe22d57e2214e86748d45a45a1f1
+      internalID: -2112468671177981231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76a7694c839364489c5db5c07295de
+      internalID: -6708981975136075120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05b9fbec2f6d9447b6d04a80a0e5fb1
+      internalID: -3885359364711716419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3930cb5eba8444b892e73d338a9e2e
+      internalID: 4973971729011398532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 319
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3f68a97bd7dd46ae44153972857d3
+      internalID: -2229771809485694267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 321
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8093c37bd23784cbe64c3f6bcaabc7
+      internalID: 6657859460601138653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 321
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0d006271f641649852c81908d5809e
+      internalID: -7761733510692061071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 319
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b653cc1105bb04c8a8738933d50a7e
+      internalID: 3374665751076282859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_24
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 319
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a09c72226b04294f86b2fbe4699e1ed
+      internalID: -762578073111410072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 321
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de9dbc45cdc7bd4b939d9a7c2d83957
+      internalID: 5853509685749615405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c444fa11b467f4d909a6540d38059b
+      internalID: -8060271726389960404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 249
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e856821ccb10c46bc77a4a303323bf
+      internalID: 248067667394263292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 254
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d232d03d6a9c6644bb82655ba3955a15
+      internalID: 3866825224903116228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5759310afc97d9b4981c867135680c04
+      internalID: 8802289043692882217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 240
+        width: 80
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d554537f6c5740902c32832765aae
+      internalID: 5564267734512154313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 242
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d111489cbd4c8b0448d59f5cecc9ca6f
+      internalID: -6103755753743667915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 239
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919d0a0af66668b43aba23ec49211b3a
+      internalID: 7556300888824138014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4136ba7b57289449fc49d2c8d5452c
+      internalID: -3931978945644036129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 166
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e271adc51c9a954a87564f3841e46c1
+      internalID: -393995351436451052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 167
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8c42a9e2c29b14ab9cc3db31622267
+      internalID: -2678358777544442713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 159
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c0629fac2f8504995ac9f425bd52aa
+      internalID: -7199731532979884545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 160
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c807b4314bb05a4e9e6ae9dd39b08a5
+      internalID: 8891099206500484456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 143
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6bcca282901545b2451a51c3f14e2
+      internalID: 1908861608643505154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 161
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea810f5e9250049b5c3ab195174de9
+      internalID: -8576132896414123487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_40
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 161
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd693dfe8043749a9a70c726fecb1c
+      internalID: -8774414560554388746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_41
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 161
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cccf0d2d73bc214b914a3bc0d6699fc
+      internalID: 6741566955008310151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13303fb6cd7486438a310a0e538a914
+      internalID: 2841315142751485691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6f86347856a24fae7c718e53697b7
+      internalID: 436902664613504830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 77
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2188f152d97d748b4f29ffa6d677eb
+      internalID: -2813788591834622668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 80
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b94d639635a8d47aaaa34bbd5965c3
+      internalID: -5820265667371714008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 81
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afad3b5d8bfd7949933de6606915d68
+      internalID: -8897268581112678519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_47
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 81
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025a8276c63241146b6960eafba95759
+      internalID: -1020071357780339321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 79
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a5fc73894007b46801b41d271458f2
+      internalID: 2018320688442561369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_49
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 79
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da3e42b5054e447b37f08410c23484
+      internalID: 8813339288108312365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_50
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 82
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c1fb012db3cd47a0209a811405f82
+      internalID: -3801205127108637340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_51
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 81
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3d853ccd32ce46a035e9572000823
+      internalID: -4288783682038850267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 158
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e553cebfd66884d9e946444adba09a
+      internalID: 6810921118415772803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 6
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1119a834c7e4fe448d0a7cc6c57145f
+      internalID: -252066217802707562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbcb75cc2cc1da498f3e42d876f38dd
+      internalID: -6177867286723131800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_55
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13d492249e6be64383b6484ae9ace07
+      internalID: -4159595631417783155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lf2_56
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 14
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b820c018f7755c42955cf8cf47e53cf
+      internalID: 5258390620985615103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
